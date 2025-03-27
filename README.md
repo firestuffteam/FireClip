@@ -11,8 +11,7 @@ A simple, open-source clipboard manager designed to help you keep track of your 
 ## Download
 
 ### Windows
-- [Download ZIP](https://github.com/firestuffteam/FireClip/releases/latest)
-- [Download Installer](https://github.com/firestuffteam/FireClip/releases/latest)
+- [Take me to the Downloads](https://github.com/firestuffteam/FireClip/releases/latest)
 
 ### Linux
 #### **Pre-built Debian Package (May Not Work)**
@@ -89,5 +88,5 @@ FireClip is open-source and licensed under the MIT License.
 
 ---
 
-[Download Now](https://github.com/firestuffteam/FireClip/releases/latest) | [View Source](https://github.com/firestuffteam/FireClip)
+[Download For Windows Now](https://github.com/firestuffteam/FireClip/releases/latest)
 
